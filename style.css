@@ -1,0 +1,153 @@
+body{
+font-family:"微软雅黑";
+background-color:rgb(222,222,222);
+margin:0 ;
+padding:0;
+}
+
+.totitle3{
+color:rgb(98,91,121);
+}
+
+.div1{
+background-color:rgb(51,51,51);
+height:60px;
+width:100%;
+margin:0;
+}
+
+.div2{
+width:180px;
+height:60px;
+float:left;
+}
+
+.div3 ul li{
+width:85px;
+font-size:13px;
+color:white;
+padding-top:20px;
+float:right;
+}
+.change{
+text-decoration:none;
+color:white;
+}
+
+.div4{
+height:auto;
+background-color:white !important;
+margin-top:20px;
+margin-right:20px;
+margin-left:20px;
+margin-bottom:auto;
+padding:20px;
+}
+
+
+.div5{
+height:auto;
+background-color:white !important;
+margin-top:20px;
+margin-right:20px;
+margin-left:20px;
+margin-bottom:auto;
+padding:20px;
+}
+
+
+.div5 p{
+	width:120px;
+	height:130px;
+	border:1px solid rgb(190,190,190);
+	text-align:center;
+	margin-left:40px;
+	padding-top:15px;
+}
+
+.div5 p img{
+	width:100px;
+	height:90px;
+	padding:10px;
+}
+
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    border:1px solid #ddd;
+    padding: 3px;
+}
+table th{
+    border:1px solid #ddd;
+    background-color: rgb(51,51,51);
+    color:white;
+	padding: 6px 13px;
+	text-align:left;
+}
+table tr{
+    background-color:white;
+    border-top:1px solid #ccc;
+}
+table td{
+    border: 1px solid #ddd;
+    padding: 6px 13px;
+}
+.total{
+    background-color: rgb(212,212,212);
+    font-weight: bold;
+}
+
+
+
+
+.tolastH2{
+	font-size:20px;
+	padding:10px;
+	border-left:3px solid #ccc;
+}
+.div6{
+	text-align:center;
+	width:100%;
+}
+.row{
+	position:relative;
+	display:block;
+	padding-bottom:15px;
+	line-height:2em;
+}
+.rowleft{
+	display:inline-block;
+	float:left;
+	width:40%;
+	text-align:right;
+}
+.rowright{
+	display:inline-block;
+	float:right;
+	width:60%;
+	text-align:left;
+}
+.totextare{
+	width:90%;
+	height:100px;
+}
+
+.tosubmit{
+	color:white;
+	font-size:15px;
+	text-align:center;
+	background-color:rgb(51,85,208);
+	padding:10px 13px;
+	width:100%;
+	border-radius:10px;
+	border:none;
+	margin-top:20px;
+}
+
+.last{
+	color:white;
+	font-size:15px;
+	text-align:center;
+	padding-top:15px;
+}
