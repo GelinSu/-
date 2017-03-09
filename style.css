@@ -111,19 +111,14 @@ table td{
 	width:100%;
 }
 .row{
-	position:relative;
-	display:block;
-	padding-bottom:15px;
 	line-height:2em;
 }
 .rowleft{
-	display:inline-block;
 	float:left;
 	width:40%;
 	text-align:right;
 }
 .rowright{
-	display:inline-block;
 	float:right;
 	width:60%;
 	text-align:left;
